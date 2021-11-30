@@ -1,0 +1,16 @@
+Pasos
+-------
+
+1 - Diseñar y crear la base de datos
+2 - Maquetar la página web
+3 - Montar estructura MVC
+4 - Hacer el registro de usuarios
+5 - Hacer el login
+6 - Gestionar categorías para usuarios admin
+7 - Gestionar entradas para admin
+8 - Listar productos en la página de inicio 
+9 - Listar productos en categorías
+10 - Hacer carrito de la compra con sesiones
+11 - Formulario para hacer el pedido
+12 - Gestionar pedidos para admin
+13 - Poder cambiar el estado de los pedidos

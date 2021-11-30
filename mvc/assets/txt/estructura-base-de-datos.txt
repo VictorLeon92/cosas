@@ -1,0 +1,45 @@
+tabla usuarios
+-----------------
+	- id
+	- nombre
+	- apellidos
+	- email
+	- password
+	- rol
+	-imagen
+
+tabla categorias
+------------------
+	- id
+	- nombre
+
+tabla productos
+------------------
+	- id
+	- categoria_id
+	- nombre
+	- descripcion
+	- precio
+	- stock
+	- oferta
+	- fecha
+	- imagen
+
+tabla pedidos
+---------------
+	- id
+	- usuario_id
+	- provincia
+	- localidad
+	- direccion
+	- coste
+	- estado
+	- fecha
+	- hora
+
+tabla lineas_pedido
+----------------------
+	-  id
+	- pedido_id
+	- producto_id
+	- unidades
